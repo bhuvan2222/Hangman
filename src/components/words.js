@@ -1,15 +1,6 @@
 var Subjects = [
-	"PYTHON",
-	"JAVA",
-	"C",
-	"DATABASE MANAGEMENT SYSTEM",
-	"ADVANCED DATABASE MANAGEMENT SYSTEM",
-	"COMPUTER SYSTEM ARCHITECTURE",
-	"OPERATING SYSTEM",
-	"PHYSICS",
-	"COMPUTER NETWORKS",
-	"LINUX",
-	"SOFTWARE ENGINEERING"
+	"Aamir Khan",
+       "Aarun Nagar"
 ];
 
 function randomWord() {
